@@ -9,9 +9,6 @@ Utilizing customer information, including factors like location, income, and loa
 
 Our work represents a significant advancement in the field of loan rate prediction and opens the door to broader applications in financial analysis and decision-making."
 
-This refined text provides a more structured and polished description of your project's accomplishments.
-
-
 
 
 
